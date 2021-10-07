@@ -27,3 +27,11 @@ or follow SHAPEAI on:
   <li><a href="https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTube</a> 
 
   <li><a href="https://github.com/shapeai">GitHub</a>
+
+    ### Connect with me
+  <a href="https://www.linkedin.com/in/shivam-pandey-65966a214/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>&ensp;
+  <a href="https://www.instagram.com/__.piyush.__0808/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>
